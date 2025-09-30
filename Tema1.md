@@ -13,6 +13,7 @@
 ---
 
 ## 2. La emergencia ambiental
+![Vídeo](https://www.youtube.com/watch?v=5kBMHvvWlcs)
 
 ### ¿Qué es?
 
@@ -45,6 +46,7 @@
 ---
 
 ## 3. La naturaleza agotada
+![Vídeo](https://www.youtube.com/watch?v=7RiJsgQ1P1o)
 
 ### Biodiversidad
 
@@ -64,6 +66,7 @@
 ---
 
 ## 4. La huella ecológica
+![Vídeo](https://www.youtube.com/watch?v=TM2Be7MqykY)
 
 ### Definición
 
@@ -91,7 +94,7 @@
 ---
 
 ## 5. La emergencia social
-
+![Vídeo](https://www.youtube.com/watch?v=ustRO3EG_-8)
 ### Principales problemas sociales
 
 1. **Pobreza**: millones de personas no cubren sus necesidades básicas.
@@ -108,6 +111,7 @@
 ---
 
 ## 6. La desigualdad social
+![Vídeo](https://www.youtube.com/watch?v=WMjhC7gp5rw&pp=ygUSZGVzaWd1YWxkYWQgc29jaWFs)
 
 ### Definición
 
@@ -138,3 +142,4 @@
 * Los jóvenes son **agentes del cambio**: con pequeñas acciones locales pueden generar impacto global.
 
 ---
+<img width="2371" height="416" alt="mapa_conceptual_futuro" src="https://github.com/user-attachments/assets/47df33a9-56dc-449b-bbbb-c9011450fd4f" />
