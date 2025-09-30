@@ -13,7 +13,7 @@
 ---
 
 ## 2. La emergencia ambiental
-![Vídeo](https://www.youtube.com/watch?v=5kBMHvvWlcs)
+[Vídeo](https://www.youtube.com/watch?v=5kBMHvvWlcs)
 
 ### ¿Qué es?
 
@@ -46,7 +46,7 @@
 ---
 
 ## 3. La naturaleza agotada
-![Vídeo](https://www.youtube.com/watch?v=7RiJsgQ1P1o)
+[Vídeo](https://www.youtube.com/watch?v=7RiJsgQ1P1o)
 
 ### Biodiversidad
 
@@ -66,7 +66,7 @@
 ---
 
 ## 4. La huella ecológica
-![Vídeo](https://www.youtube.com/watch?v=TM2Be7MqykY)
+[Vídeo](https://www.youtube.com/watch?v=TM2Be7MqykY)
 
 ### Definición
 
@@ -94,7 +94,7 @@
 ---
 
 ## 5. La emergencia social
-![Vídeo](https://www.youtube.com/watch?v=ustRO3EG_-8)
+[Vídeo](https://www.youtube.com/watch?v=ustRO3EG_-8)
 ### Principales problemas sociales
 
 1. **Pobreza**: millones de personas no cubren sus necesidades básicas.
@@ -111,7 +111,7 @@
 ---
 
 ## 6. La desigualdad social
-![Vídeo](https://www.youtube.com/watch?v=WMjhC7gp5rw&pp=ygUSZGVzaWd1YWxkYWQgc29jaWFs)
+[Vídeo](https://www.youtube.com/watch?v=WMjhC7gp5rw&pp=ygUSZGVzaWd1YWxkYWQgc29jaWFs)
 
 ### Definición
 
