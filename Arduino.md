@@ -90,8 +90,6 @@ void loop() {
 }
 ```
 
-Con esta base, puedes comenzar a explorar y desarrollar proyectos más complejos en Arduino.
-
 **Proyectos comunes con Arduino**
 
 - **Sistemas de riego automático:** Utilizando sensores de humedad del suelo. https://www.youtube.com/watch?v=moa6d8DboCo&t=49s&pp=ygUNcmllZ28gYXJkdWlubw%3D%3D
