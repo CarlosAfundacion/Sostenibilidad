@@ -1,3 +1,6 @@
+# 2 - Retos de la sostenibilidad. Un compromiso global
+---
+
 # 1) Objetivos y contenidos
 
 * **Objetivos**: comprender sostenibilidad y desarrollo sostenible; comparar modelos de desarrollo; situar escalas y ámbitos de aplicación; identificar iniciativas principales; valorar el papel de las empresas como generadoras de impacto y agentes promotores.
