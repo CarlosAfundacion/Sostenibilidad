@@ -1,4 +1,4 @@
-# 4. De la economía lineal a la circular
+# 4 - De la economía lineal a la circular
 
 ## Apuntes completos
 
